@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º semestre)<br>💼 Trabalho como Gerente na Rede Drogasil, liderando pessoas e processos<br>💻 No mundo da programação, estudo principalmente Python, mas também utilizo PHP e HTML<br>🎯 Objetivo: unir minha experiência em gestão com a tecnologia para desenvolver soluções inteligentes<br>🎲 Curiosidade: adoro resolver problemas de lógica e transformar ideias em código</p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (4º semestre)<br>💼 Trabalho como Gerente na Rede Drogasil, liderando pessoas e processos<br>💻 No mundo da programação, estudo principalmente Python, mas também utilizo PHP e HTML<br>🎯 Objetivo: unir minha experiência em gestão com a tecnologia para desenvolver soluções inteligentes<br>🎲 Curiosidade: adoro resolver problemas de lógica e transformar ideias em código</p>
 
 ###
 
